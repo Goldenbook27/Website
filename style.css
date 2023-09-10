@@ -86,6 +86,7 @@ video{
 #page1 p{
     font-size: 20px;
     font-weight: 50px;
+    width: 40%;
 }
 
 #page2{
